@@ -81,12 +81,12 @@ body {
     padding: 20px 0 0 0;
     text-decoration: none;
     color: inherit;
-    transition: padding-left 0.3s;
+    /* transition: padding-left 0.3s; */
 }
 
 .back_to_blog:hover {
   font-weight: bold;
-  padding-left: 4px;
+  /* padding-left: 4px; */
 }
 
 .article_info {
